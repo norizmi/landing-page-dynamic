@@ -78,5 +78,3 @@ accordion.forEach(accor => {
     })
 });
 
-
-
